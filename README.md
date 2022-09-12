@@ -5,4 +5,4 @@ Estoy aprendiendo **Github**
 
 _Mola mazo!!_
 
-![Himalaya](./H   )
+![Himalaya](./imagen)
